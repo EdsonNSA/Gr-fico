@@ -25,3 +25,4 @@ plt.title('Distribuição de Fermi-Dirac')
 plt.legend()
 plt.grid()
 plt.show()
+
